@@ -1,13 +1,13 @@
 ### Hi there 👋, I am Ahmad Bin Qasim
-#### M.Sc. Informatics, Technical University of Munich (TUM)
-![M.Sc. Informatics, Technical University of Munich (TUM)](https://b2h3x3f6.stackpathcdn.com/assets/landing/img/blend/horizontal/dd.jpg)
+#### PhD, German Cancer Research Institute (DKFZ)
+![PhD, German Cancer Research Institute (DKFZ)](https://b2h3x3f6.stackpathcdn.com/assets/landing/img/blend/horizontal/dd.jpg)
 
-M.Sc. Informatics student, specializing in the field of Artificial Intelligence and Robotics. Research experience in the domains of Computer Vision, Reinforcement Learning and Medical Imaging. Proficient with Python and C++/C. 
+PhD student, specializing in the field of Artificial Intelligence and Robotics. Research experience in the domains of Computer Vision, Reinforcement Learning and Medical Imaging. Proficient with Python and C++/C. 
 
 Skills: Medical Imaging; Reinforcement Learning; Algorithms; Deep Learning
 
-- 🔭 I’m currently working on my Master's thesis 
-- 🌱 I’m currently learning new RL algorithms 
+- 🔭 I’m currently working on my PhD
+- 🌱 I’m currently learning new Domain Adaption and Generalization algorithms 
 - 📫 How to reach me: ahmad.qasim@tum.de 
 
 
